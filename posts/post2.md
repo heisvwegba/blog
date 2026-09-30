@@ -10,14 +10,14 @@ I’m starting this journey with a clear goal: build the product ideas living in
 To do that without getting buried under endless configuration files and framework churn, I had to choose a stack early. I wanted setup choices that respect my time, run fast, and stay out of the way.
 
 
-## The Stack
+### The Stack
 
 * **CSS3:** Plain, modern styling with native variables and flexbox/grid layout. No utility classes cluttering the markup, no compile steps for styles, and complete design control.
 * **SvelteKit & Supabase:** The engine for dynamic ideas and SaaS apps. SvelteKit keeps the front-end lean with minimal boilerplate, while Supabase handles database, auth, and backend logic without managing servers.
 * **11ty:** The static generator behind this blog. It compiles Markdown straight to static HTML with zero client-side JavaScript required.
 
 
-## Core Philosophy
+### Core Philosophy
 
 Building as a solo creator means every added dependency is a potential future break point. My rules for choosing tech are simple:
 
@@ -27,7 +27,7 @@ Building as a solo creator means every added dependency is a potential future br
 * **Project Maintainability:** Write code today that I can open in two years and still understand instantly.
 
 
-## Fundamentals First
+### Fundamentals First
 
 It’s tempting to lean entirely on AI generation right out of the gate. While LLMs are incredible tools for speed, relying on them before understanding the underlying mechanics creates fragile projects and that doesn't work for me. If I don't know how the code works, I can't debug it when it breaks.
 

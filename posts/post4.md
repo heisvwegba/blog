@@ -7,7 +7,7 @@ tags: post
 
 As a kid, I learned things without being fully conscious of the discomfort of being a beginner. As an adult, however, I'm much more aware of it; and I'm learning that I can't avoid it. 
 
-## Learning as a kid vs. as an adult 
+### Learning as a kid vs. as an adult 
 
 The joy of drawing or playing football as a kid almost always made the pain of "sucking" bearable. Hobbies were about pure excitement and expression, not necessarily about being the best or trying to reach some external goal.
 
@@ -16,7 +16,7 @@ Now I'm impatient. I pick up a craft or hop into a field and expect to be good r
 I'm finally accepting that being a beginner will often feel awful, but that's not proof something isn't for me.
 
 
-## The realization 
+### The realization 
 
 You can't become good without going through the period where you're bad. _Every expert was once a beginner_. There was frustration, confusion, and that feeling of not being good enough. But that's the price of becoming proficient.
 
@@ -29,7 +29,7 @@ But maybe that's the wrong way to look at it.
 Maybe I don't need to rush to become the person who can build the product. I just need to become that person.
 
 
-## What I'm doing differently
+### What I'm doing differently
 
 Drawing as a kid, nobody expected me to be Michelangelo. As an adult learning programming, suddenly I have this awareness that there are people who are really fucking good at it. I see their GitHub repos, products, careers, technical knowledge. 
 
@@ -42,7 +42,7 @@ So here's what I'm doing differently:
 - Not rushing the process
 
 
-## It's okay being a beginner
+### It's okay being a beginner
 
 Being a beginner isn't a detour from becoming good. It's the beginning of becoming good. 
 

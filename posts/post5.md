@@ -22,7 +22,7 @@ Then:
 And then there are ad banners covering up valuable page content. 
 
 
-## Why I hate them 
+### Why I hate them 
 
 It's straightforward:
 - They interupt what I came to do 
@@ -33,7 +33,7 @@ It's straightforward:
 - _They're often optimized for the site's goals rather than the user's_
 
 
-## The Irony 
+### The Irony 
 
 I'm a web developer, of course I know why pop-ups exist. 
 Newsletters want subscribers. Stores want sales. Apps want notifications. Companies want conversions. So I understand why they're everywhere. 
@@ -45,7 +45,7 @@ It's:
 > "I understand why you use them. I still hate what you're doing to my experience."
 
 
-## What I prefer   
+### What I prefer   
 
 Instead of interrupting me: 
 - Put the newsletter signup somewhere visible
@@ -57,7 +57,7 @@ Instead of interrupting me:
 Basically earn my attention. Don't steal it. 
 
 
-## End 
+### End 
 
 I know pop-ups aren't going away. <br>
 I just wish websites would let me read the damn article first. 

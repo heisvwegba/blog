@@ -7,7 +7,7 @@ tags: post
 
 After considering complex options, I decided to build a fast, minimal static blog from scratch using standard HTML, CSS and Eleventy(_11ty_).
 
-## Why Eleventy?
+### Why Eleventy?
 
 I wanted a setup that gives me full control over my CSS while allowing me to write posts in plain Markdown. Eleventy fits this perfectly:
 
@@ -16,13 +16,13 @@ I wanted a setup that gives me full control over my CSS while allowing me to wri
 * **Fast local preview:** Changes compile almost instantly as I write.
 
 
-## Key Technical Decisions
+### Key Technical Decisions
 
 * **Custom CSS:** Built using native Flexbox layouts, CSS variables, and clean font stacks (Berlin Sans, Iosevka Charon and Tinos).
 * **Minimal Dependencies:** Uses minimal build configuration with plain Markdown parsing.
 * **Date Parsing:** Custom Node.js filters format publication dates smoothly across timezones.
 
 
-## What's Next?
+### What's Next?
 
 Now that the foundation is live, I'll be sharing notes on software projects, random thoughts and continuous learning.

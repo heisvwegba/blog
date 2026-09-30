@@ -9,21 +9,21 @@ The modern web is bloated. Simple landing pages regularly pull down megabytes of
 
 I have a genuine distaste for this trend. We’ve traded performance, simplicity, and efficiency for layers of unnecessary abstraction.
 
-## The Problem with Modern Software
+### The Problem with Modern Software
 
 * **Bloated Frameworks:** Using massive, full-stack JavaScript setups for basic content sites adds fragile dependency chains and slow initial loads.
 * **Over-Engineering:** Simple problems are routinely met with overly complex infrastructure, microservices, and build steps that slow down actual product delivery.
 * **Loss of Ownership:** When a stack relies on dozens of abstraction layers, debugging turns into digging through vendor code rather than understanding your own software.
 
 
-## Lean Inspiration: Herman Martinus
+### Lean Inspiration: Herman Martinus
 
 Indie hackers like Herman Martinus (creator of Bear Blog) prove there is a better way. Bear Blog runs on a minimalist philosophy: zero tracking scripts, ultra-fast load times, pure HTML/CSS, and a strict focus on content over feature creep.
 
 Seeing builders successfully ship profitable, highly functional products using tiny, hyper-focused tech stacks shows that you don't need complex enterprise architecture to build great software. 
 
 
-## My Approach
+### My Approach
 
 I want the software I build to be fast, light, and durable. Choosing a lean tech stack isn't just a case of taste; it's a commitment to building software that respects the user's bandwidth, device, and time.
 
