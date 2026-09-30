@@ -22,7 +22,7 @@ Then:
 And then there are ad banners covering up valuable page content. 
 
 
-### Why I hate them 
+### Why I Hate Them 
 
 It's straightforward:
 - They interupt what I came to do 
@@ -45,7 +45,7 @@ It's:
 > "I understand why you use them. I still hate what you're doing to my experience."
 
 
-### What I prefer   
+### What I Prefer   
 
 Instead of interrupting me: 
 - Put the newsletter signup somewhere visible

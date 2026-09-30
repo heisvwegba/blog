@@ -5,7 +5,7 @@ date: 2026-09-17
 tags: post
 ---
 
-After considering complex options, I decided to build a fast, minimal static blog from scratch using standard HTML, CSS and Eleventy(_11ty_).
+After considering complex options, I decided to build a fast, minimal static blog from scratch using standard HTML, CSS and Eleventy(11ty).
 
 ### Why Eleventy?
 
