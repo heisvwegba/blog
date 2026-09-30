@@ -5,7 +5,7 @@ date: 2026-09-17
 tags: post
 ---
 
-After considering complex options, I decided to build a fast, minimal static blog from scratch using standard Web technologies and **Eleventy (11ty)**.
+After considering complex options, I decided to build a fast, minimal static blog from scratch using standard HTML, CSS and **Eleventy (11ty)**.
 
 ### Why Eleventy?
 
@@ -18,7 +18,7 @@ I wanted a setup that gives me full control over my CSS while allowing me to wri
 
 ### Key Technical Decisions
 
-* **Custom CSS:** Built using native Flexbox layouts, CSS variables, and clean font stacks (Iosevka Charon and Tinos).
+* **Custom CSS:** Built using native Flexbox layouts, CSS variables, and clean font stacks (Berlin Sans, Iosevka Charon and Tinos).
 * **Minimal Dependencies:** Uses minimal build configuration with plain Markdown parsing.
 * **Date Parsing:** Custom Node.js filters format publication dates smoothly across timezones.
 
