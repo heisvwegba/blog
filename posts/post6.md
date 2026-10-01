@@ -10,7 +10,7 @@ Twitter (X) stopped being a place where I learned things and became a place wher
 
 ### Why I Initially Joined
 
-I initially joined the platform because a lot of tech influencers marketed it as the holy grail of social media for programmers, and how every beginner needed it to get updates about the tech world, connect with like-minded people and find jobs down the line. 
+I initially joined the platform because a lot of tech influencers marketed it as the holy grail of social media for programmers, and how every beginner needed it to get updates about the tech world, connect with like-minded people, and find jobs down the line. 
 
 It was fun at first, until it wasn't. It used to be about sharing what I'm learning or building, and connecting with other people on the same journey. Now everything is engagement driven.
 
@@ -21,7 +21,7 @@ The more time I spent on it, the harder the problems with the platform became to
 
 - AI hype/noise 
 - FOMO 
-- Repetitive context across accounts  
+- Repetitive content across accounts  
 - Dumb takes/rage bait 
 - Rampant toxicity 
 - The 'centering a div' or 'missing colon' bs 
@@ -32,17 +32,17 @@ Everyone has to be a content creator now. You see someone 6 months into their pr
 
 People piling on someone because of a bad take, a poorly worded opinion, or simply disagreeing with the prevailing sentiment.
 
-'Tech bros' telling you how behind you're if you're not hopping on the latest thing. Giving advice they don't follow, and acting like gurus or geniuses.
+'Tech bros' telling you how far behind you are if you're not hopping on the latest thing. Giving advice they don't follow, and acting like gurus or geniuses.
 
 When everyone is talking, no one is talking. 
 
-Of course tuning my feed to my taste or blocking/muting accounts were all  options, but overtime, it became too stressful to manage. 
+Of course tuning my feed to my taste or blocking/muting accounts were all  options, but over time, it became too stressful to manage. 
 
 
 ### A Better Twitter
 
 What would Twitter have to be like for me to actually enjoy using it? <br>
-Well for starters: 
+Well, for starters: 
 
 - Make people I follow my default feed
 - Deprioritize engagement bait

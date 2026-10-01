@@ -1,11 +1,11 @@
 ---
 layout: base.njk
-title: "It's okay being a beginner"
+title: "It's okay to be a beginner"
 date: 2026-09-29
 tags: post
 ---
 
-As a kid, I learned things without being fully conscious of the discomfort of being a beginner. As an adult, however, I'm much more aware of it; and I'm learning that I can't avoid it. 
+As a kid, I learned things without being fully conscious of the discomfort of being a beginner. As an adult, however, I'm much more aware of it, and I'm learning that I can't avoid it. 
 
 ### Learning as a Kid vs. as an Adult 
 
@@ -42,11 +42,11 @@ So here's what I'm doing differently:
 - Not rushing the process
 
 
-### It's Okay Being a Beginner
+### It's Okay to be a Beginner
 
 Being a beginner isn't a detour from becoming good. It's the beginning of becoming good. 
 
-And maybe this post itself is part of that process. I don't need to a great writer before I start writing. This is one of many attempts, and it's probably going to have flaws. That's okay too. 
+And maybe this post itself is part of that process. I don't need to be a great writer before I start writing. This is one of many attempts, and it's probably going to have flaws. That's okay too. 
 
 I have always had this desire to skip the part where nobody is watching.
 

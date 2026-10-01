@@ -25,6 +25,6 @@ Seeing builders successfully ship profitable, highly functional products using t
 
 ### My Approach
 
-I want the software I build to be fast, light, and durable. Choosing a lean tech stack isn't just a case of taste; it's a commitment to building software that respects the user's bandwidth, device, and time.
+I want the software I build to be fast, light, and durable. Choosing a lean tech stack isn't just a matter of taste; it's a commitment to building software that respects the user's bandwidth, device, and time.
 
 Building lean keeps maintenance overhead low and keeps the focus where it actually belongs: on the product.

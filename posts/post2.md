@@ -12,19 +12,19 @@ To do that without getting buried under endless configuration files and framewor
 
 ### The Stack
 
-* **CSS3:** Plain, modern styling with native variables and flexbox/grid layout. No utility classes cluttering the markup, no compile steps for styles, and complete design control.
-* **SvelteKit & Supabase:** The engine for dynamic ideas and SaaS apps. SvelteKit keeps the front-end lean with minimal boilerplate, while Supabase handles database, auth, and backend logic without managing servers.
-* **11ty:** The static generator behind this blog. It compiles Markdown straight to static HTML with zero client-side JavaScript required.
+- **CSS3:** Plain, modern styling with native variables and flexbox/grid layout. No utility classes cluttering the markup, no compile steps for styles, and complete design control.
+- **SvelteKit & Supabase:** The engine for dynamic ideas and SaaS apps. SvelteKit keeps the front-end lean with minimal boilerplate, while Supabase handles database, auth, and backend logic without managing servers.
+- **11ty:** The static generator behind this blog. It compiles Markdown straight to static HTML with zero client-side JavaScript required.
 
 
 ### Core Philosophy
 
 Building as a solo creator means every added dependency is a potential future break point. My rules for choosing tech are simple:
 
-* **Zero Bloat:** Skip heavy frameworks when simple tools do the job faster.
-* **Minimal Dependencies:** Fewer packages in `package.json` means fewer security audits and fewer breaking updates down the road.
-* **Ownership Over Abstractions:** Understand what the code is doing under the hood instead of hiding behind layers of magic.
-* **Project Maintainability:** Write code today that I can open in two years and still understand instantly.
+- **Zero Bloat:** Skip heavy frameworks when simple tools do the job faster.
+- **Minimal Dependencies:** Fewer packages in `package.json` means fewer security audits and fewer breaking updates down the road.
+- **Ownership Over Abstractions:** Understand what the code is doing under the hood instead of hiding behind layers of magic.
+- **Project Maintainability:** Write code today that I can open in two years and still understand instantly.
 
 
 ### Fundamentals First

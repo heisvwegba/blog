@@ -25,7 +25,7 @@ And then there are ad banners covering up valuable page content.
 ### Why I Hate Them 
 
 It's straightforward:
-- They interupt what I came to do 
+- They interrupt what I came to do 
 - They demand attention before earning it 
 - They destroy reading flow 
 - On mobile, they're especially obnoxious
@@ -49,12 +49,12 @@ It's:
 
 Instead of interrupting me: 
 - Put the newsletter signup somewhere visible
-- Let me finish reading 😒
+- Let me finish reading 
 - Put the CTA at the end of the article 
 - Make the product useful enough that I _want_ to sign up
 - Ask once, not five times
 
-Basically earn my attention. Don't steal it. 
+Basically, earn my attention. Don't steal it. 
 
 
 ### End 
