@@ -1,6 +1,6 @@
 --- 
 layout: base.njk
-title: "I hate Pop-ups"
+title: "I hate pop-ups"
 date: 2026-09-29
 tags: post
 ---
