@@ -9,6 +9,10 @@
     --color-link: #d1d0a9;
     --font-heading: normal 600 1.5rem 'Tinos', 'Times New Roman';
     --font-body: normal 1rem 'Berlin', 'Iosevka Charon';
+
+    /* Custom scrollbar */
+    scrollbar-width: thin; 
+    scrollbar-color: #4c5346 transparent;
 }
 
 body {
