@@ -15,6 +15,10 @@
     scrollbar-color: #4c5346 transparent;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
     display: flex; 
