@@ -12,7 +12,8 @@
 }
 
 html {
-	@media screen and (min-width: 1024px) {
+    /* Targets laptops/desktops, excludes mobile and tablets */
+	@media (pointer: fine) and (hover: hover) {
 		scrollbar-width: thin;
 		scrollbar-color: #4c5346 transparent;
 
@@ -22,6 +23,10 @@ html {
 			&::-webkit-scrollbar-track { background: transparent; }
 		}
 	}
+
+    @media screen and (min-width: 768px) { body { padding: 2em 10em; }}
+    @media screen and (min-width: 1024px) { body { padding: 2em 15em; p { color: #e0e0d5; }}}
+    @media screen and (min-width: 1280px) { body { padding: 2em 20em; }}
 }
 
 body {
