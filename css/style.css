@@ -9,14 +9,19 @@
     --color-link: #d1d0a9;
     --font-heading: normal 600 1.5rem 'Tinos', 'Times New Roman';
     --font-body: normal 1rem 'Berlin', 'Iosevka Charon';
-
-    /* Custom scrollbar */
-    scrollbar-width: thin; 
-    scrollbar-color: #4c5346 transparent;
 }
 
 html {
-    scroll-behavior: smooth;
+	@media screen and (min-width: 1024px) {
+		scrollbar-width: thin;
+		scrollbar-color: #4c5346 transparent;
+
+		@supports not (scrollbar-width: thin) {
+			&::-webkit-scrollbar { width: 6px; }
+			&::-webkit-scrollbar-thumb { border-radius: 0; background: #4c5346; }
+			&::-webkit-scrollbar-track { background: transparent; }
+		}
+	}
 }
 
 body {
