@@ -1,37 +1,34 @@
 @font-face {
-    font-family: 'Berlin'; 
+    font-family: 'Berlin';
     src: url('/css/berlin.ttf') format('truetype');
     font-display: swap;
-    font-weight: 100;
 }
 
 :root {
-    --color-link: #d1d0a9;
-    --font-heading: normal 600 1.5rem 'Tinos', 'Times New Roman';
-    --font-body: normal 1rem 'Berlin', 'Iosevka Charon';
+    --link: #d1d0a9;
+    --h-family: 'Tinos', 'Times';
+    --b-family: 'Berlin', 'Times';
+    
+    --h-font: 1.5rem var(--h-family);
+    --b-font: 1.0rem var(--b-family);
 }
 
 html {
-    /* Targets laptops/desktops, excludes mobile and tablets */
-	@media (pointer: fine) and (hover: hover) {
-		scrollbar-width: thin;
-		scrollbar-color: #4c5346 transparent;
+    @media (pointer: fine) and (hover: hover) {
+        scrollbar-width: thin;
+        scrollbar-color: #4c5346 transparent;
 
-		@supports not (scrollbar-width: thin) {
-			&::-webkit-scrollbar { width: 6px; }
-			&::-webkit-scrollbar-thumb { border-radius: 0; background: #4c5346; }
-			&::-webkit-scrollbar-track { background: transparent; }
-		}
-	}
-
-    @media screen and (min-width: 768px) { body { padding: 2em 10em; }}
-    @media screen and (min-width: 1024px) { body { padding: 2em 15em; p { color: #e0e0d5; }}}
-    @media screen and (min-width: 1280px) { body { padding: 2em 20em; }}
+        @supports not (scrollbar-width: thin) {
+            &::-webkit-scrollbar { width: 6px; }
+            &::-webkit-scrollbar-thumb { background: #4c5346; }
+            &::-webkit-scrollbar-track { background: transparent; }
+        }
+    }
 }
 
 body {
     margin: 0;
-    display: flex; 
+    display: flex;
     min-height: 100vh;
     min-height: 100svh;
     flex-direction: column;
@@ -42,19 +39,23 @@ body {
     gap: 2em;
 }
 
-h1 {
-    font: var(--font-heading);
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--h-family);
+    color: #fffdfd;
 }
 
-p {
-    font: var(--font-body);
+h1 {
+    font: var(--h-font);
+}
+
+p, a, li {
+    font: var(--b-font);
 }
 
 a {
-    font: var(--font-body);
-    color: var(--color-link);
+    color: var(--link);
     text-decoration: none;
-    transition-duration: .5s;
+    transition: color 0.5s ease;
     
     &:hover {
         color: #eee4de;
@@ -66,7 +67,7 @@ ul {
     margin: 0; 
 
     & li {
-        margin-bottom: .3em;
+        margin-bottom: 0.3em;
         list-style: square inside;
     }
 
@@ -77,12 +78,10 @@ ul {
 
 main {
     flex: 1;
-    font: var(--font-body);
+    font: var(--b-font);
 
     & :is(h1, h2, h3, h4, h5, h6) {
-        font-family: 'Tinos';
-        margin: 1.8em 0 .4em 0;
-        color: #fffdfd;
+        margin: 1.8em 0 0.4em 0;
     }
 
     & p {
@@ -90,9 +89,8 @@ main {
         line-height: 1.5;
     }
 
-    & strong, b {
+    & :is(strong, b) {
         font-weight: 500;
-        font-size: inherit;
         color: #80b853;
     }
 
@@ -118,12 +116,11 @@ main {
 
 footer {
     margin-top: auto;
-    color: var(--color-link);
+    color: var(--link);
     display: flex;
-    gap: .8em;
+    gap: 0.8em;
 }
 
-/* Container for code blocks */
 pre {
     max-width: 500px;
     color: inherit;
@@ -136,5 +133,25 @@ pre {
     & code {
         font: normal 14px "Anonymous Pro", monospace;
     }
+}
+
+@media screen and (min-width: 768px) {
+    body { padding: 2em 10em; }
+    
+    a, li, p {
+        font-size: 1rem;
+    }
+    
+    main { 
+        text-align: justify; 
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    body { padding: 2em 15em; }
+}
+
+@media screen and (min-width: 1280px) {
+    body { padding: 2em 20em; }
 }
 
