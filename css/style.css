@@ -144,7 +144,7 @@ pre {
 
 /* Custom scrollbar for Laptops/Desktops */
 @media (pointer: fine) and (hover: hover) {
-    *::-webkit-scrollbar { width: 4px; }
+    *::-webkit-scrollbar { width: 6px; }
     *::-webkit-scrollbar-track { background: transparent; }
-    *::-webkit-scrollbar-thumb { background: #6a8852; border-radius: 0; }
+    *::-webkit-scrollbar-thumb { background: #40433e; border-radius: 0; }
 }
