@@ -13,19 +13,6 @@
     --b-font: 1.0rem var(--b-family);
 }
 
-html {
-    @media (pointer: fine) and (hover: hover) {
-        scrollbar-width: thin;
-        scrollbar-color: #4c5346 transparent;
-
-        @supports not (scrollbar-width: thin) {
-            &::-webkit-scrollbar { width: 6px; }
-            &::-webkit-scrollbar-thumb { background: #4c5346; }
-            &::-webkit-scrollbar-track { background: transparent; }
-        }
-    }
-}
-
 body {
     margin: 0;
     display: flex;
@@ -137,7 +124,7 @@ pre {
 
 @media screen and (min-width: 768px) {
     body { padding: 2em 10em; }
-    
+
     a, li, p {
         font-size: 1rem;
     }
@@ -155,3 +142,9 @@ pre {
     body { padding: 2em 20em; }
 }
 
+/* Custom scrollbar for Laptops/Desktops */
+@media (pointer: fine) and (hover: hover) {
+    *::-webkit-scrollbar { width: 4px; }
+    *::-webkit-scrollbar-track { background: transparent; }
+    *::-webkit-scrollbar-thumb { background: #6a8852; border-radius: 0; }
+}
