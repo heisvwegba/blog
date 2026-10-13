@@ -1,30 +1,51 @@
 ---
 layout: base.njk
-title: "Tech bloat"
-date: 2026-09-17
+title: "It's okay to be a beginner"
+date: 2026-09-29
 tags: post
 ---
 
-The modern web is bloated. Simple landing pages regularly pull down megabytes of JavaScript, endless analytics scripts, and heavy framework runtimes just to render static text. Software that should feel instantaneous now lags on powerful machines.
+As a kid, I learned things without being fully conscious of the discomfort of being a beginner. As an adult, however, I'm much more aware of it, and I'm learning that I can't avoid it. 
 
-I have a genuine distaste for this trend. We’ve traded performance, simplicity, and efficiency for layers of unnecessary abstraction.
+### Learning as a Kid vs. as an Adult 
 
-### The Problem with Modern Software
+The joy of drawing or playing football as a kid almost always made the pain of "sucking" bearable. Hobbies were about pure excitement and expression, not necessarily about being the best or trying to reach some external goal.
 
-* **Bloated Frameworks:** Using massive, full-stack JavaScript setups for basic content sites adds fragile dependency chains and slow initial loads.
-* **Over-Engineering:** Simple problems are routinely met with overly complex infrastructure, microservices, and build steps that slow down actual product delivery.
-* **Loss of Ownership:** When a stack relies on dozens of abstraction layers, debugging turns into digging through vendor code rather than understanding your own software.
+Now I'm impatient. I pick up a craft or hop into a field and expect to be good right out of the box. And when that doesn't happen, I start having negative thoughts and making excuses like → "maybe this isn't for me", "this field is already filled with experts", "I'm not smart enough".
 
-
-### Lean Inspiration: Herman Martinus
-
-Indie hackers like Herman Martinus (creator of Bear Blog) prove there is a better way. Bear Blog runs on a minimalist philosophy: zero tracking scripts, ultra-fast load times, pure HTML/CSS, and a strict focus on content over feature creep.
-
-Seeing builders successfully ship profitable, highly functional products using tiny, hyper-focused tech stacks shows that you don't need complex enterprise architecture to build great software. 
+I'm finally accepting that being a beginner will often feel awful, but that's not proof something isn't for me.
 
 
-### My Approach
+### The Realization 
 
-I want the software I build to be fast, light, and durable. Choosing a lean tech stack isn't just a matter of taste; it's a commitment to building software that respects the user's bandwidth, device, and time.
+You can't become good without going through the period where you're bad. _Every expert was once a beginner_. There was frustration, confusion, and that feeling of not being good enough. But that's the price of becoming proficient.
 
-Building lean keeps maintenance overhead low and keeps the focus where it actually belongs: on the product.
+Being bad is part of the process. First drafts are ugly. I'll probably look at my first website down the line and feel embarrassed. But that's okay. Competence takes time and effort.
+
+I want to build Awwwards-level websites, but I currently only know HTML and CSS. My instinct is to rush through JavaScript and everything else so I can start building immediately. 
+
+But maybe that's the wrong way to look at it. 
+
+
+### What I'm Doing Differently
+
+Drawing as a kid, nobody expected me to be Da Vinci. As an adult learning creative web development, suddenly I have this awareness that there are people who are really fucking good at it. I see their projects and feel discouraged. 
+
+The experience is no longer "I'm learning", it's more like "I'm bad compared to these people". 
+
+So here's what I'm doing differently:
+- Allowing myself to suck
+- Learning JavaScript from first principles
+- Building small projects 
+- Not rushing the process
+
+
+### It's Okay to be a Beginner
+
+Being a beginner isn't a detour from becoming good. It's the beginning of becoming good. 
+
+And maybe this post itself is part of that process. I don't need to be a great writer before I start writing. This is one of many attempts, and it's probably going to have flaws. That's okay too. 
+
+I have always had this desire to skip the part where nobody is watching.
+
+I'm learning to accept that I can't. 

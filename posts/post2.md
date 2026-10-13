@@ -1,36 +1,53 @@
 ---
 layout: base.njk
-title: "Indie hacking and my tech stack"
-date: 2026-09-17
+title: "Web bloat: a case for lean design"
+date: 2026-10-13
 tags: post
 ---
 
-I’m starting this journey with a clear goal: build the product ideas living inside my head and ship them as an indie hacker. 
+Spinning up a simple portfolio or personal blog shouldn't require an enterprise-grade cloud architecture, three state management libraries, and 50 megabytes of client-side JavaScript. Yet, modern web development has quietly normalized a culture where performance and simplicity are constantly sacrificed for developer convenience.
 
-To do that without getting buried under endless configuration files and framework churn, I had to choose a stack early. I wanted setup choices that respect my time, run fast, and stay out of the way.
-
-
-### The Stack
-
-- **CSS3:** Plain, modern styling with native variables and flexbox/grid layout. No utility classes cluttering the markup, no compile steps for styles, and complete design control.
-- **SvelteKit & Supabase:** The engine for dynamic ideas and SaaS apps. SvelteKit keeps the front-end lean with minimal boilerplate, while Supabase handles database, auth, and backend logic without managing servers.
-- **11ty:** The static generator behind this blog. It compiles Markdown straight to static HTML with zero client-side JavaScript required.
+We have built a web that is heavier, and slower than ever before; it's time to make a case for lean design.
 
 
-### Core Philosophy
+### The Hidden Cost of Modern Bloat
 
-Building as a solo creator means every added dependency is a potential future break point. My rules for choosing tech are simple:
+As creative developers, we love interactivity, movement, and expressive layouts. But somewhere along the line, the tools we picked up to build these experiences started consuming them.
 
-- **Zero Bloat:** Skip heavy frameworks when simple tools do the job faster.
-- **Minimal Dependencies:** Fewer packages in `package.json` means fewer security audits and fewer breaking updates down the road.
-- **Ownership Over Abstractions:** Understand what the code is doing under the hood instead of hiding behind layers of magic.
-- **Project Maintainability:** Write code today that I can open in two years and still understand instantly.
+Today, a typical user visiting a modern website downloads megabytes of script bundles before they can even read a sentence. The consequences are real:
+
+- **Lost Craftsmanship:** When every interaction relies on heavy UI abstractions, developers stop mastering raw platform primitives like CSS, semantic HTML, and browser APIs.
+- **Performance Degradation:** Mobile CPUs struggle under the weight of continuous re-renders and heavy hydration processes.
+- **Fragile Architecture:** Deep dependency trees mean a single breaking change three layers down can break an entire UI.
+
+Bloat isn't just an engineering inconvenience—it harms user experience and degrades the web as a shared canvas.
 
 
-### Fundamentals First
+### My Preferred Stack
 
-It’s tempting to lean entirely on AI generation right out of the gate. While LLMs are incredible tools for speed, relying on them before understanding the underlying mechanics creates fragile projects and that doesn't work for me. If I don't know how the code works, I can't debug it when it breaks.
+Building lean doesn't mean building boring, plain-text pages stripped of delight. It means choosing tools that do their heavy lifting at build time or focus strictly on their single responsibility.
 
-My strategy is to master the core web fundamentals first — HTML5, CSS3, JavaScript, and core database design. Once those foundations are rock solid, I'll bring AI into the workflow as a force multiplier rather than a crutch.
+To stay fast without sacrificing dynamic, creative motion, my stack relies on four lean building blocks:
 
-The goal for me isn't just to ship fast; it's to build things that last.
+- **CSS3:** Modern CSS features like container queries, grid, native nesting, and CSS variables eliminate the need for bloated utility frameworks or heavy preprocessors.
+- **SvelteKit:** Compiles reactive components down to minimal vanilla JavaScript at build time. No bulky virtual DOM overhead in the browser.
+- **GSAP:** Provides precise, high-performance animation timelines and smooth scroll interactions without triggering layout thrashing.
+- **11ty:** Generates zero-JS static HTML by default for content pages, delivering instantaneous page loads.
+
+By stripping away the unnecessary runtime baggage, the site loads instantly, animations run at a locked 60 FPS, and every kilobyte serves a clear purpose.
+
+
+### Reclaiming Developer Joy
+
+When you stop managing massive build configurations and chasing framework updates every few months, something remarkable happens: you get to focus on crafting great experiences again.
+
+Lean web design is a commitment to intentionality. It asks simple questions before adding any dependency: *Does this serve the user? Can the web platform do this natively? Can we build this simpler?*
+
+> The web doesn't need more tools to be dynamic. It needs more intentional engineering.
+
+
+### Conclusion
+
+Building fast, lightweight web experiences is all about respecting the user's attention, device, and data, while enjoying the pure craft of building on the web.
+
+If we want a better, faster, and more creative web, we have to start by shipping less bloat.

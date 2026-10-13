@@ -1,63 +1,71 @@
---- 
+---
 layout: base.njk
-title: "I hate pop-ups"
-date: 2026-09-29
+title: "Why I quit Twitter"
+date: 2026-10-01
 tags: post
 ---
 
-It's 2026. I visit a website. <br>
-I haven't even read the headline and boom: 
-> "JOIN OUR NEWSLETTER!"
-
-Close it. 
-
-Then: 
-> "Are you sure you don't want 10% off?"
-
-Close it. 
-
-Then: 
-> "Allow notifications?"
-
-And then there are ad banners covering up valuable page content. 
+Twitter (X) stopped being a place where I learned things and became a place where I constantly felt like I was supposed to be paying attention. The AI hype, FOMO, recycled opinions, rage bait, and endless certainty made it noisier than it was useful, so I quit.
 
 
-### Why I Hate Them 
+### Why I Initially Joined
 
-It's straightforward:
-- They interrupt what I came to do 
-- They demand attention before earning it 
-- They destroy reading flow 
-- On mobile, they're especially obnoxious
-- Some are deliberately difficult to dismiss
-- _They're often optimized for the site's goals rather than the user's_
+I initially joined the platform because a lot of tech influencers marketed it as the holy grail of social media for programmers, and how every beginner needed it to get updates about the tech world, connect with like-minded people, and find jobs down the line. 
+
+It was fun at first, until it wasn't. It used to be about sharing what I'm learning or building, and connecting with other people on the same journey. Now everything is engagement driven.
 
 
-### The Irony 
+### An Engagement Circus
 
-I'm a web developer, of course I know why pop-ups exist. 
-Newsletters want subscribers. Stores want sales. Apps want notifications. Companies want conversions. So I understand why they're everywhere. 
+The more time I spent on it, the harder the problems with the platform became to ignore. My feed became filled with:
 
-My argument isn't:
-> "Nobody should ever use pop-ups." 
+- AI hype/noise 
+- FOMO 
+- Repetitive content across accounts  
+- Dumb takes/rage bait 
+- Rampant toxicity 
+- The 'centering a div' or 'missing colon' bs 
+- Influencer hustle culture
+- Vague posting 
 
-It's:
-> "I understand why you use them. I still hate what you're doing to my experience."
+Everyone has to be a content creator now. You see someone 6 months into their programming journey trying to become a motivational figure for new devs, complete with a vague story about how they went from _X_ to _Y_. Even worse is when they offer 'mentoring' sessions despite having barely any practical experience. 
+
+People piling on someone because of a bad take, a poorly worded opinion, or simply disagreeing with the prevailing sentiment.
+
+'Tech bros' telling you how far behind you are if you're not hopping on the latest thing. Giving advice they don't follow, and acting like gurus or geniuses.
+
+When everyone is talking, no one is talking. 
+
+Of course tuning my feed to my taste or blocking/muting accounts were all  options, but over time, it became too stressful to manage. 
 
 
-### What I Prefer   
+### A Better Twitter
 
-Instead of interrupting me: 
-- Put the newsletter signup somewhere visible
-- Let me finish reading 
-- Put the CTA at the end of the article 
-- Make the product useful enough that I _want_ to sign up
-- Ask once, not five times
+What would Twitter have to be like for me to actually enjoy using it? <br>
+Well, for starters: 
 
-Basically, earn my attention. Don't steal it. 
+- Make people I follow my default feed
+- Deprioritize engagement bait
+- Make muting powerful 
+- Option to choose what the algorithm optimizes for  
+- Reward useful discussion instead of outrage 
+- Unrank vague posts 
+- Make "not interested" actually work
+- A finite feed, maybe
 
+The common thread is simple: give users more control over what they consume instead of optimizing everything around engagement.
 
-### End 
+> A better Twitter wouldn't necessarily have less information or 'fun'. It would prioritize value, thus giving room for a better experience. 
 
-I know pop-ups aren't going away. <br>
-I just wish websites would let me read the damn article first. 
+For now, I use:
+- **YouTube** for learning
+- **TikTok** for tattoo content (1hr daily limit)
+- **Reddit** for research 
+
+I don't need to know what everyone is talking about. I just need to know what is relevant to what I'm trying to do. 
+
+### Conclusion 
+
+I didn't quit because Twitter contained nothing valuable. I quit because the cost of finding the valuable stuff became too high for me. 
+
+The noise was just too much. 
