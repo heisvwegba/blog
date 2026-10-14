@@ -9,7 +9,7 @@ As a kid, I learned things without being fully conscious of the discomfort of be
 
 ### Learning as a Kid vs. as an Adult 
 
-The joy of drawing or playing football as a kid almost always made the pain of "sucking" bearable. Hobbies were about pure excitement and expression, not necessarily about being the best or trying to reach some external goal.
+The joy of drawing as a kid almost always made the pain of "sucking" bearable. Hobbies were about pure excitement and expression, not necessarily about being the best or trying to reach some external goal.
 
 Now I'm impatient. I pick up a craft or hop into a field and expect to be good right out of the box. And when that doesn't happen, I start having negative thoughts and making excuses like → "maybe this isn't for me", "this field is already filled with experts", "I'm not smart enough".
 
@@ -35,8 +35,8 @@ The experience is no longer "I'm learning", it's more like "I'm bad compared to 
 
 So here's what I'm doing differently:
 - Allowing myself to suck
-- Learning JavaScript from first principles
-- Building small projects 
+- Learning the primitives from first principles
+- Building projects relentlessly
 - Not rushing the process
 
 

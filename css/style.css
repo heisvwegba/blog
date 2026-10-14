@@ -7,7 +7,7 @@
 :root {
     --link: #d1d0a9;
     --h-family: 'Tinos', 'Times';
-    --b-family: 'Berlin', 'Times';
+    --b-family: 'Berlin', 'Times New Roman';
     
     --h-font: 1.5rem var(--h-family);
     --b-font: 1.0rem var(--b-family);

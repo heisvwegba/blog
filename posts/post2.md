@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Web bloat: a case for lean design"
-date: 2026-10-13
+date: 2026-09-18
 tags: post
 ---
 
@@ -16,11 +16,12 @@ As creative developers, we love interactivity, movement, and expressive layouts.
 
 Today, a typical user visiting a modern website downloads megabytes of script bundles before they can even read a sentence. The consequences are real:
 
+- **User inconvenience:** Slow, heavy initial page loads, and unecessary scroll animations leaves the user with a clunky experience.
 - **Lost Craftsmanship:** When every interaction relies on heavy UI abstractions, developers stop mastering raw platform primitives like CSS, semantic HTML, and browser APIs.
 - **Performance Degradation:** Mobile CPUs struggle under the weight of continuous re-renders and heavy hydration processes.
 - **Fragile Architecture:** Deep dependency trees mean a single breaking change three layers down can break an entire UI.
 
-Bloat isn't just an engineering inconvenience—it harms user experience and degrades the web as a shared canvas.
+Simply put: bloat harms user experience and degrades the web as a shared canvas.
 
 
 ### My Preferred Stack
