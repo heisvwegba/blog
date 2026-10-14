@@ -60,7 +60,6 @@ The common thread is simple: give users more control over what they consume inst
 For now, I use:
 - **YouTube** for learning
 - **TikTok** for tattoo content (1hr daily limit)
-- **Reddit** for research 
 
 I don't need to know what everyone is talking about. I just need to know what is relevant to what I'm trying to do. 
 
