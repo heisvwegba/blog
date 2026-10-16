@@ -1,6 +1,6 @@
 --- 
 layout: base.njk
-title: "I hate pop-ups"
+title: "I don't like pop-ups"
 date: 2026-09-29
 tags: post
 ---
@@ -19,10 +19,10 @@ Close it.
 Then: 
 > "Allow notifications?"
 
-And then there are ad banners covering up valuable page content. 
+Don't even get me started on multiple ad banners covering up valuable page content. 
 
 
-### Why I Hate Them 
+### Why I Don't Like Them 
 
 It's straightforward:
 - They interrupt what I came to do 

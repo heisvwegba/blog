@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: "Why I quit Twitter"
+title: "Qutting Twitter"
 date: 2026-10-01
 tags: post
 ---
