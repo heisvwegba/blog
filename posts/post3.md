@@ -1,51 +1,70 @@
 ---
 layout: base.njk
-title: "It's okay to be a beginner"
-date: 2026-09-29
+title: "Why I quit Twitter"
+date: 2026-10-01
 tags: post
 ---
 
-As a kid, I learned things without being fully conscious of the discomfort of being a beginner. As an adult, however, I'm much more aware of it, and I'm learning that I can't avoid it. 
-
-### Learning as a Kid vs. as an Adult 
-
-The joy of drawing as a kid almost always made the pain of "sucking" bearable. Hobbies were about pure excitement and expression, not necessarily about being the best or trying to reach some external goal.
-
-Now I'm impatient. I pick up a craft or hop into a field and expect to be good right out of the box. And when that doesn't happen, I start having negative thoughts and making excuses like → "maybe this isn't for me", "this field is already filled with experts", "I'm not smart enough".
-
-I'm finally accepting that being a beginner will often feel awful, but that's not proof something isn't for me.
+Twitter (X) stopped being a place where I learned things and became a place where I constantly felt like I was supposed to be paying attention. The AI hype, FOMO, recycled opinions, rage bait, and endless certainty made it noisier than it was useful, so I quit.
 
 
-### The Realization 
+### Why I Initially Joined
 
-You can't become good without going through the period where you're bad. _Every expert was once a beginner_. There was frustration, confusion, and that feeling of not being good enough. But that's the price of becoming proficient.
+I initially joined the platform because a lot of tech influencers marketed it as the holy grail of social media for programmers, and how every beginner needed it to get updates about the tech world, connect with like-minded people, and find jobs down the line. 
 
-Being bad is part of the process. First drafts are ugly. I'll probably look at my first website down the line and feel embarrassed. But that's okay. Competence takes time and effort.
-
-I want to build Awwwards-level websites, but I currently only know HTML and CSS. My instinct is to rush through JavaScript and everything else so I can start building immediately. 
-
-But maybe that's the wrong way to look at it. 
+It was fun at first, until it wasn't. It used to be about sharing what I'm learning or building, and connecting with other people on the same journey. Now everything is engagement driven.
 
 
-### What I'm Doing Differently
+### An Engagement Circus
 
-Drawing as a kid, nobody expected me to be Da Vinci. As an adult learning creative web development, suddenly I have this awareness that there are people who are really fucking good at it. I see their projects and feel discouraged. 
+The more time I spent on it, the harder the problems with the platform became to ignore. My feed became filled with:
 
-The experience is no longer "I'm learning", it's more like "I'm bad compared to these people". 
+- AI hype/noise 
+- FOMO 
+- Repetitive content across accounts  
+- Dumb takes/rage bait 
+- Rampant toxicity 
+- The 'centering a div' or 'missing colon' bs 
+- Influencer hustle culture
+- Vague posting 
 
-So here's what I'm doing differently:
-- Allowing myself to suck
-- Learning the primitives from first principles
-- Building projects relentlessly
-- Not rushing the process
+Everyone has to be a content creator now. You see someone 6 months into their programming journey trying to become a motivational figure for new devs, complete with a vague story about how they went from _X_ to _Y_. Even worse is when they offer 'mentoring' sessions despite having barely any practical experience. 
+
+People piling on someone because of a bad take, a poorly worded opinion, or simply disagreeing with the prevailing sentiment.
+
+'Tech bros' telling you how far behind you are if you're not hopping on the latest thing. Giving advice they don't follow, and acting like gurus or geniuses.
+
+When everyone is talking, no one is talking. 
+
+Of course tuning my feed to my taste or blocking/muting accounts were all  options, but over time, it became too stressful to manage. 
 
 
-### It's Okay to be a Beginner
+### A Better Twitter
 
-Being a beginner isn't a detour from becoming good. It's the beginning of becoming good. 
+What would Twitter have to be like for me to actually enjoy using it? <br>
+Well, for starters: 
 
-And maybe this post itself is part of that process. I don't need to be a great writer before I start writing. This is one of many attempts, and it's probably going to have flaws. That's okay too. 
+- Make people I follow my default feed
+- Deprioritize engagement bait
+- Make muting powerful 
+- Option to choose what the algorithm optimizes for  
+- Reward useful discussion instead of outrage 
+- Unrank vague posts 
+- Make "not interested" actually work
+- A finite feed, maybe
 
-I have always had this desire to skip the part where nobody is watching.
+The common thread is simple: give users more control over what they consume instead of optimizing everything around engagement.
 
-I'm learning to accept that I can't. 
+> A better Twitter wouldn't necessarily have less information or 'fun'. It would prioritize value, thus giving room for a better experience. 
+
+For now, I use:
+- **YouTube** for learning
+- **TikTok** for tattoo content (1hr daily limit)
+
+I don't need to know what everyone is talking about. I just need to know what is relevant to what I'm trying to do. 
+
+### Conclusion 
+
+I didn't quit because Twitter contained nothing valuable. I quit because the cost of finding the valuable stuff became too high for me. 
+
+The noise was just too much. 

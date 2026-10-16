@@ -1,54 +1,63 @@
----
+--- 
 layout: base.njk
-title: "Web bloat: a case for lean design"
-date: 2026-09-18
+title: "I hate pop-ups"
+date: 2026-09-29
 tags: post
 ---
 
-Spinning up a simple portfolio or personal blog shouldn't require an enterprise-grade cloud architecture, three state management libraries, and 50 megabytes of client-side JavaScript. Yet, modern web development has quietly normalized a culture where performance and simplicity are constantly sacrificed for developer convenience.
+It's 2026. I visit a website. <br>
+I haven't even read the headline and boom: 
+> "JOIN OUR NEWSLETTER!"
 
-We have built a web that is heavier, and slower than ever before; it's time to make a case for lean design.
+Close it. 
 
+Then: 
+> "Are you sure you don't want 10% off?"
 
-### The Hidden Cost of Modern Bloat
+Close it. 
 
-As creative developers, we love interactivity, movement, and expressive layouts. But somewhere along the line, the tools we picked up to build these experiences started consuming them.
+Then: 
+> "Allow notifications?"
 
-Today, a typical user visiting a modern website downloads megabytes of script bundles before they can even read a sentence. The consequences are real:
-
-- **User inconvenience:** Slow, heavy initial page loads, and unecessary scroll animations leaves the user with a clunky experience.
-- **Lost Craftsmanship:** When every interaction relies on heavy UI abstractions, developers stop mastering raw platform primitives like CSS, semantic HTML, and browser APIs.
-- **Performance Degradation:** Mobile CPUs struggle under the weight of continuous re-renders and heavy hydration processes.
-- **Fragile Architecture:** Deep dependency trees mean a single breaking change three layers down can break an entire UI.
-
-Simply put: bloat harms user experience and degrades the web as a shared canvas.
+And then there are ad banners covering up valuable page content. 
 
 
-### My Preferred Stack
+### Why I Hate Them 
 
-Building lean doesn't mean building boring, plain-text pages stripped of delight. It means choosing tools that do their heavy lifting at build time or focus strictly on their single responsibility.
-
-To stay fast without sacrificing dynamic, creative motion, my stack relies on four lean building blocks:
-
-- **CSS3:** Modern CSS features like container queries, grid, native nesting, and CSS variables eliminate the need for bloated utility frameworks or heavy preprocessors.
-- **SvelteKit:** Compiles reactive components down to minimal vanilla JavaScript at build time. No bulky virtual DOM overhead in the browser.
-- **GSAP:** Provides precise, high-performance animation timelines and smooth scroll interactions without triggering layout thrashing.
-- **11ty:** Generates zero-JS static HTML by default for content pages, delivering instantaneous page loads.
-
-By stripping away the unnecessary runtime baggage, the site loads instantly, animations run at a locked 60 FPS, and every kilobyte serves a clear purpose.
+It's straightforward:
+- They interrupt what I came to do 
+- They demand attention before earning it 
+- They destroy reading flow 
+- On mobile, they're especially obnoxious
+- Some are deliberately difficult to dismiss
+- _They're often optimized for the site's goals rather than the user's_
 
 
-### Reclaiming Developer Joy
+### The Irony 
 
-When you stop managing massive build configurations and chasing framework updates every few months, something remarkable happens: you get to focus on crafting great experiences again.
+I'm a web developer, of course I know why pop-ups exist. 
+Newsletters want subscribers. Stores want sales. Apps want notifications. Companies want conversions. So I understand why they're everywhere. 
 
-Lean web design is a commitment to intentionality. It asks simple questions before adding any dependency: *Does this serve the user? Can the web platform do this natively? Can we build this simpler?*
+My argument isn't:
+> "Nobody should ever use pop-ups." 
 
-> The web doesn't need more tools to be dynamic. It needs more intentional engineering.
+It's:
+> "I understand why you use them. I still hate what you're doing to my experience."
 
 
-### Conclusion
+### What I Prefer   
 
-Building fast, lightweight web experiences is all about respecting the user's attention, device, and data, while enjoying the pure craft of building on the web.
+Instead of interrupting me: 
+- Put the newsletter signup somewhere visible
+- Let me finish reading 
+- Put the CTA at the end of the article 
+- Make the product useful enough that I _want_ to sign up
+- Ask once, not five times
 
-If we want a better, faster, and more creative web, we have to start by shipping less bloat.
+Basically, earn my attention. Don't steal it. 
+
+
+### End 
+
+I know pop-ups aren't going away. <br>
+I just wish websites would let me read the damn article first. 
