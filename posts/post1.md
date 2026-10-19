@@ -11,16 +11,16 @@ After considering complex options, I decided to build a fast, minimal static blo
 
 I wanted a setup that gives me full control over my CSS while allowing me to write posts in plain Markdown. Eleventy fits this perfectly:
 
-- **Flexible templating:** I can reuse my existing HTML structures with Nunjucks templates.
-- **Zero extra JavaScript overhead:** It outputs clean, static HTML files.
-- **Fast local preview:** Changes compile almost instantly as I write.
+* ***Flexible templating:** I can reuse my existing HTML structures with Nunjucks templates.
+* **Zero extra JavaScript overhead:** It outputs clean, static HTML files.
+* **Fast local preview:** Changes compile almost instantly as I write.
 
 
 ### Key Technical Decisions
 
-- **Custom CSS:** Built using native Flexbox layouts, CSS variables, and clean font stacks (Berlin Sans, and Tinos).
-- **Minimal Dependencies:** Uses minimal build configuration with plain Markdown parsing.
-- **Date Parsing:** Custom Node.js filters format publication dates smoothly across timezones.
+* **Custom CSS:** Built using native Flexbox layouts, CSS variables, and clean font stacks (Berlin Sans, and Tinos).
+* **Minimal Dependencies:** Uses minimal build configuration with plain Markdown parsing.
+* **Date Parsing:** Custom Node.js filters format publication dates smoothly across timezones.
 
 
 ### What's Next?

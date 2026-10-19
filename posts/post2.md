@@ -1,4 +1,4 @@
---- 
+---
 layout: base.njk
 title: "I don't like pop-ups"
 date: 2026-09-29
@@ -25,12 +25,12 @@ Don't even get me started on multiple ad banners covering up valuable page conte
 ### Why I Don't Like Them 
 
 It's straightforward:
-- They interrupt what I came to do 
-- They demand attention before earning it 
-- They destroy reading flow 
-- On mobile, they're especially obnoxious
-- Some are deliberately difficult to dismiss
-- _They're often optimized for the site's goals rather than the user's_
+* They interrupt what I came to do 
+* They demand attention before earning it 
+* They destroy reading flow 
+* On mobile, they're especially obnoxious
+* Some are deliberately difficult to dismiss
+* _They're often optimized for the site's goals rather than the user's_
 
 
 ### The Irony 
@@ -48,11 +48,11 @@ It's:
 ### What I Prefer   
 
 Instead of interrupting me: 
-- Put the newsletter signup somewhere visible
-- Let me finish reading 
-- Put the CTA at the end of the article 
-- Make the product useful enough that I _want_ to sign up
-- Ask once, not five times
+* Put the newsletter signup somewhere visible
+* Let me finish reading 
+* Put the CTA at the end of the article 
+* Make the product useful enough that I _want_ to sign up
+* Ask once, not five times
 
 Basically, earn my attention. Don't steal it. 
 

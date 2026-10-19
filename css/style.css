@@ -143,4 +143,10 @@ pre {
     *::-webkit-scrollbar { width: 6px; }
     *::-webkit-scrollbar-track { background: transparent; }
     *::-webkit-scrollbar-thumb { background: #40433e; border-radius: 0; }
+    
+    /* FireFox */ 
+    html {
+        scrollbar-width: thin;
+        scrollbar-color: #56693b transparent;
+    }
 }
