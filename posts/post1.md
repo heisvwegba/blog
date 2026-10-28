@@ -1,28 +1,63 @@
 ---
 layout: base.njk
-title: "Behind this blog"
-date: 2026-09-17
+title: "I don't like pop-ups"
+date: 2026-10-29
 tags: post
 ---
 
-After considering complex options, I decided to build a fast, minimal static blog from scratch using standard HTML, CSS and Eleventy (11ty).
+It's 2026. I visit a website. <br>
+I haven't even read the headline and boom: 
+> "JOIN OUR NEWSLETTER!"
 
-### Why Eleventy?
+Close it. 
 
-I wanted a setup that gives me full control over my CSS while allowing me to write posts in plain Markdown. Eleventy fits this perfectly:
+Then: 
+> "Are you sure you don't want 10% off?"
 
-* ***Flexible templating:** I can reuse my existing HTML structures with Nunjucks templates.
-* **Zero extra JavaScript overhead:** It outputs clean, static HTML files.
-* **Fast local preview:** Changes compile almost instantly as I write.
+Close it. 
 
+Then: 
+> "Allow notifications?"
 
-### Key Technical Decisions
-
-* **Custom CSS:** Built using native Flexbox layouts, CSS variables, and clean font stacks (Berlin Sans, and Tinos).
-* **Minimal Dependencies:** Uses minimal build configuration with plain Markdown parsing.
-* **Date Parsing:** Custom Node.js filters format publication dates smoothly across timezones.
+Don't even get me started on multiple ad banners covering up valuable page content. 
 
 
-### What's Next?
+### Why I Don't Like Them 
 
-Now that the foundation is live, I'll be sharing new projects, random thoughts, and continuous learning.
+It's straightforward:
+* They interrupt what I came to do 
+* They demand attention before earning it 
+* They destroy reading flow 
+* On mobile, they're especially obnoxious
+* Some are deliberately difficult to dismiss
+* _They're often optimized for the site's goals rather than the user's_
+
+
+### The Irony 
+
+I'm a web developer, of course I know why pop-ups exist. 
+Newsletters want subscribers. Stores want sales. Apps want notifications. Companies want conversions. So I understand why they're everywhere. 
+
+My argument isn't:
+> "Nobody should ever use pop-ups." 
+
+It's:
+> "I understand why you use them. I still hate what you're doing to my experience."
+
+
+### What I Prefer   
+
+Instead of interrupting me: 
+* Put the newsletter signup somewhere visible
+* Let me finish reading 
+* Put the CTA at the end of the article 
+* Make the product useful enough that I _want_ to sign up
+* Ask once, not five times
+
+Basically, earn my attention. Don't steal it. 
+
+
+### End 
+
+I know pop-ups aren't going away. <br>
+I just wish websites would let me read the damn article first. 
